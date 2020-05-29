@@ -20,7 +20,7 @@ module.exports = {
     'no-debugger': prodOnlyError,
     '@typescript-eslint/no-unused-vars': [
       prodOnlyError,
-      { varsIgnorePattern: '^_' },
+      { varsIgnorePattern: '^_', argsIgnorePattern: '^_' },
     ],
   },
   overrides: [
