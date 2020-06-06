@@ -6651,19 +6651,24 @@ paper-jsdom-canvas@^0.12.7:
     paper "0.12.7"
     source-map-support "^0.5.12"
 
-paper-jsdom@^0.12.7:
-  version "0.12.7"
-  resolved "https://registry.yarnpkg.com/paper-jsdom/-/paper-jsdom-0.12.7.tgz#3e3bdc49b28d7adc869a9bf86cbc407046ce7c54"
-  integrity sha512-8s/ZrM+DcKySTx0cNTF3fPwpwpj48wgowE+jdnTseND9Jt1HkwNYpNnObY3uVG6/fkQv5psJylG4j2Z2NZVA5w==
+paper-jsdom@^0.12.8:
+  version "0.12.8"
+  resolved "https://registry.yarnpkg.com/paper-jsdom/-/paper-jsdom-0.12.8.tgz#b90894d781a9929de79903d97a0736a4d7613bf2"
+  integrity sha512-d9wJQi0Ib2OJ6UQRD/zb3KCzTL4VxuNAZZcy3U/7ZcQzVlJEWqsckVVPDwJoorkJGqcG8JqYeiCAMohrXFN8pQ==
   dependencies:
     jsdom "^15.1.1"
-    paper "0.12.7"
+    paper "0.12.8"
     source-map-support "^0.5.12"
 
-paper@0.12.7, paper@^0.12.7:
+paper@0.12.7:
   version "0.12.7"
   resolved "https://registry.yarnpkg.com/paper/-/paper-0.12.7.tgz#d971ffc24164558ed6e913bef4110cfa17f6cba1"
   integrity sha512-vaSTibdFAp4aVfCXmetxnPYkoGPMDQA1JPFKPCL76RnNOCoTm36nTj4SsfjBMfVeUFr94sbMGnPEBKjQnHzd3w==
+
+paper@0.12.8, paper@^0.12.7:
+  version "0.12.8"
+  resolved "https://registry.yarnpkg.com/paper/-/paper-0.12.8.tgz#fb8e5f1c565610088cd2cc8a4967ba55d161347c"
+  integrity sha512-aFzTOs4UgLPVJaCHkWp4KD9H3e5ibM61h+wNEjN4ZJu+JMLoivm1GKU2PdqL4DL/Ye490cQOIuUmeSz8dVdN6Q==
 
 parallel-transform@^1.1.0:
   version "1.2.0"
