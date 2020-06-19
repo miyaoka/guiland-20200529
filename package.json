@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "paper": "^0.12.7",
-    "paper-jsdom": "^0.12.7",
+    "paper-jsdom": "^0.12.11",
     "paper-jsdom-canvas": "^0.12.7",
     "vue": "^2.6.11",
     "vue-router": "^3.1.5",
